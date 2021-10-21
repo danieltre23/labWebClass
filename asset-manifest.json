@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/labWebClass/personal/static/css/main.a617e044.chunk.css",
+    "main.js": "/labWebClass/personal/static/js/main.0d03d2c0.chunk.js",
+    "main.js.map": "/labWebClass/personal/static/js/main.0d03d2c0.chunk.js.map",
+    "runtime-main.js": "/labWebClass/personal/static/js/runtime-main.b0a38b55.js",
+    "runtime-main.js.map": "/labWebClass/personal/static/js/runtime-main.b0a38b55.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/labWebClass/personal/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.778785db.chunk.js": "/labWebClass/personal/static/js/2.778785db.chunk.js",
+    "static/js/2.778785db.chunk.js.map": "/labWebClass/personal/static/js/2.778785db.chunk.js.map",
+    "static/js/3.43b7e052.chunk.js": "/labWebClass/personal/static/js/3.43b7e052.chunk.js",
+    "static/js/3.43b7e052.chunk.js.map": "/labWebClass/personal/static/js/3.43b7e052.chunk.js.map",
+    "index.html": "/labWebClass/personal/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/labWebClass/personal/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/labWebClass/personal/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.778785db.chunk.js.LICENSE.txt": "/labWebClass/personal/static/js/2.778785db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a38b55.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.778785db.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0d03d2c0.chunk.js"
+  ]
+}
